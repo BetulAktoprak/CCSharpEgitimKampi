@@ -13,7 +13,7 @@ ___
 
 *String, Int, Double, Char Değişkenleri, Klavye Veri Girişleri, Dönüşümler ✔️*
 
-## 🧩 Ders 3: Karar Yapıları
+## <mark> 🧩 Ders 3: Karar Yapıları </mark>
 
 *If - Else If - Else, Switch - Case ✔️*
 
