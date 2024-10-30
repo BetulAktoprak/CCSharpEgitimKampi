@@ -6,7 +6,7 @@ ___
 
  ## 🧩 Ders 1: Giriş 
 
- **Yazdırma Komutları, String ve Int Değişkenler ✔️**
+ *Yazdırma Komutları, String ve Int Değişkenler ✔️*
 
 ## 🧩 Ders 2: Değişkenler - Dönüşümler
 
