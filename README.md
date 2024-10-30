@@ -1,6 +1,6 @@
 # C# Eğitim Kampı
 
-### Her bir yapboz parçası birleşerek bir bütünü oluşturur 📌
+> _Her bir yapboz parçası birleşerek bir bütünü oluşturur_ 📌
 
 ## 🧩 Ders 1: Giriş 
 
