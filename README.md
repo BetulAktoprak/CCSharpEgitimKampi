@@ -6,7 +6,7 @@ ___
 
 <div style="color: red; text-align: center;">
   
- ## 🧩 Ders 1: Giriş 
+  🧩 Ders 1: Giriş 
 
 </div>
 
