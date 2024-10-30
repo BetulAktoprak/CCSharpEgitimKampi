@@ -4,11 +4,7 @@
 
 ___
 
-<div style="color: red; text-align: center;">
-  
-  🧩 Ders 1: Giriş 
-
-</div>
+<h2 style="color: red; text-align: center;">🧩 Ders 1: Giriş</h2>
 
  *Yazdırma Komutları, String ve Int Değişkenler ✔️*
 
