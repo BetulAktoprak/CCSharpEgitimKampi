@@ -4,8 +4,8 @@
 
 ___
 
-```
-<h2 style="color: red; text-align: center;">🧩 Ders 1: Giriş</h2>
+<h2><mark>🧩 Ders 1: Giriş</mark></h2>
+
 
  *Yazdırma Komutları, String ve Int Değişkenler ✔️*
 
