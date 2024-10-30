@@ -4,12 +4,11 @@
 
 ___
 
-<h2><mark>🧩 Ders 1: Giriş</mark></h2>
+## <mark>🧩 Ders 1: Giriş</mark>
 
+*Yazdırma Komutları, String ve Int Değişkenler ✔️*
 
- *Yazdırma Komutları, String ve Int Değişkenler ✔️*
-
-## 🧩 Ders 2: Değişkenler - Dönüşümler
+## <mark> 🧩 Ders 2: Değişkenler - Dönüşümler </mark>
 
 *String, Int, Double, Char Değişkenleri, Klavye Veri Girişleri, Dönüşümler ✔️*
 
@@ -17,23 +16,23 @@ ___
 
 *If - Else If - Else, Switch - Case ✔️*
 
-## 🧩 Ders 4: Döngüler ( For, While)
+## <mark> 🧩 Ders 4: Döngüler ( For, While) </mark>
 
 *For Döngüsü ve While Döngüsü Kullanımı ✔️*
 
-## 🧩 Ders 5: Döngü Pratik Uygulamaları
-
+## <mark> 🧩 Ders 5: Döngü Pratik Uygulamaları </mark>
+ 
 *Döngülerle Pratik Uygulamalar, Yıldızlarla Şekil Çizme ✔️*
 
-## 🧩 Ders 6: Diziler
+## <mark> 🧩 Ders 6: Diziler </mark>
 
 *Listeleme, Dizi Metotları, Temel Dizi Örnekleri ✔️*
 
-## 🧩 Ders 7: Foreach Döngüsü
+## <mark> 🧩 Ders 7: Foreach Döngüsü </mark>
 
 *Foreach Döngü Kullanımı ✔️*
 
-## 🧩 Ders 8: Metotlar
+## <mark> 🧩 Ders 8: Metotlar </mark>
 
 *Parametresiz Metotlar (Geriye Değer Döndüren Metotlar, Geriye Değer Döndürmeyen Metotlar), Parametre Alan Metotlar (Geriye Değer Döndüren Parametreli Metotlar, Geriye Değer Döndürmeyen Parametreli Metotlar) ✔️*
 
