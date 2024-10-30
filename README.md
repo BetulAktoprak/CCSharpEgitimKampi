@@ -2,7 +2,7 @@
 
 > _Her bir yapboz parçası birleşerek bir bütünü oluşturur_ 📌
 
-## 🧩 Ders 1: Giriş 
+ 🧩 **Ders 1: Giriş** 
 
 ### Yazdırma Komutları, String ve Int Değişkenler ✔️
 
