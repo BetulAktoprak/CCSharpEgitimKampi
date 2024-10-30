@@ -2,6 +2,8 @@
 
 > _Her bir yapboz parçası birleşerek bir bütünü oluşturur_ 📌
 
+___
+
  ## 🧩 Ders 1: Giriş 
 
  **Yazdırma Komutları, String ve Int Değişkenler ✔️**
