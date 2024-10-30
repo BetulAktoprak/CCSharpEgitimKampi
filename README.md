@@ -4,7 +4,9 @@
 
 ___
 
-<h2 style="color: red; text-align: center;">🧩 Ders 1: Giriş</h2>
+<h2 style="text-align: center;">
+  <span style="color: red;">🧩 Ders 1: Giriş</span>
+</h2>
 
  *Yazdırma Komutları, String ve Int Değişkenler ✔️*
 
