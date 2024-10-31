@@ -40,6 +40,6 @@ ___
 
 *Sql Veri Tabanı İle Tablo Oluşturma ve Ado.NET ile C# Tarafına Bağlama ✔️*
 
-## <mark> 🧩 Ders 10: C# İle SQL </mark>
+## <mark> 🧩 Ders 10: C# ile SQL </mark>
 
 *Ado.NET ile Listeleme, Ekleme, Güncelleme ve Silme İşlemleri ✔️*
