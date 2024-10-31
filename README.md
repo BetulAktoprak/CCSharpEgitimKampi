@@ -36,3 +36,10 @@ ___
 
 *Parametresiz Metotlar (Geriye Değer Döndüren Metotlar, Geriye Değer Döndürmeyen Metotlar), Parametre Alan Metotlar (Geriye Değer Döndüren Parametreli Metotlar, Geriye Değer Döndürmeyen Parametreli Metotlar) ✔️*
 
+## <mark> 🧩 Ders 9: SQL Veri Tabanı </mark>
+
+*Sql Veri Tabanı İle Tablo Oluşturma ve Ado.NET ile C# Tarafına Bağlama ✔️*
+
+## <mark> 🧩 Ders 10: C# İle SQL </mark>
+
+*Ado.NET ile Listeleme, Ekleme, Güncelleme ve Silme İşlemleri ✔️*
